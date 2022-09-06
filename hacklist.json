@@ -21,7 +21,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 1,
-        "updated": "2022-09-06 19:27:30"
+        "updated": "2022-09-06 19:41:48"
     },
     {
         "name": "Poly Network",
@@ -45,7 +45,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 2,
-        "updated": "2022-09-06 19:27:30"
+        "updated": "2022-09-06 19:41:48"
     },
     {
         "name": "Coincheck",
@@ -69,7 +69,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 3,
-        "updated": "2022-09-06 19:27:30"
+        "updated": "2022-09-06 19:41:48"
     },
     {
         "name": "Mt. Gox",
@@ -93,7 +93,7 @@
         "type": "Hack",
         "status": "Dead",
         "rank": 4,
-        "updated": "2022-09-06 19:27:30"
+        "updated": "2022-09-06 19:41:48"
     },
     {
         "name": "Wormhole",
@@ -117,7 +117,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 5,
-        "updated": "2022-09-06 19:27:30"
+        "updated": "2022-09-06 19:41:48"
     },
     {
         "name": "KuCoin",
@@ -141,7 +141,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 6,
-        "updated": "2022-09-06 19:27:30"
+        "updated": "2022-09-06 19:41:48"
     },
     {
         "name": "BitMart",
@@ -165,7 +165,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 7,
-        "updated": "2022-09-06 19:27:30"
+        "updated": "2022-09-06 19:41:48"
     },
     {
         "name": "Nomad",
@@ -189,7 +189,7 @@
         "type": "Hack",
         "status": "Dead",
         "rank": 8,
-        "updated": "2022-09-06 19:27:30"
+        "updated": "2022-09-06 19:41:48"
     },
     {
         "name": "Beanstalk",
@@ -213,7 +213,7 @@
         "type": "Hack",
         "status": "Resurrected",
         "rank": 9,
-        "updated": "2022-09-06 19:27:30"
+        "updated": "2022-09-06 19:41:48"
     },
     {
         "name": "Compound",
@@ -237,6 +237,30 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 10,
-        "updated": "2022-09-06 19:27:30"
+        "updated": "2022-09-06 19:41:48"
+    },
+    {
+        "name": "Vulcan Forged",
+        "date": 1639353600,
+        "inUSD": 140000000,
+        "assets": "4.5 million of Vulcan Forged native PYR tokens",
+        "reasonShort": "Compromised private keys",
+        "reasonLong": "A hacker exploited the Polygon-based platform to get hold of the private keys to 96 crypto wallets.",
+        "audited": "No",
+        "refunded": "Yes",
+        "category": "Gaming",
+        "url1": "https://decrypt.co/88177/hacker-steals-140-million-polygon-gaming-platform-nft-marketplace-vulcan-forged",
+        "url2": "",
+        "url3": "",
+        "desc": "A play-to-earn platform on Polygon.",
+        "chain": "Polygon",
+        "hackerWallet1": "",
+        "hackerWallet2": "",
+        "hackerWallet3": "",
+        "party": "Compound",
+        "type": "Hack",
+        "status": "Still Alive",
+        "rank": 11,
+        "updated": "2022-09-06 19:41:48"
     }
 ]

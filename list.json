@@ -219,5 +219,27 @@
         "party": "Compound",
         "type": "Hack",
         "status": "Still Alive"
+    } ,
+    {
+        "name": "Vulcan Forged",
+        "date": 1639353600,
+        "inUSD": 140000000,
+        "assets": "4.5 million of Vulcan Forged native PYR tokens",
+        "reasonShort": "Compromised private keys",
+        "reasonLong": "A hacker exploited the Polygon-based platform to get hold of the private keys to 96 crypto wallets.",
+        "audited": "No",
+        "refunded": "Yes",
+        "category": "Gaming",
+        "url1": "https://decrypt.co/88177/hacker-steals-140-million-polygon-gaming-platform-nft-marketplace-vulcan-forged",
+        "url2": "",
+        "url3": "",
+        "desc": "A play-to-earn platform on Polygon.",
+        "chain": "Polygon",
+        "hackerWallet1": "",
+        "hackerWallet2": "",
+        "hackerWallet3": "",
+        "party": "Compound",
+        "type": "Hack",
+        "status": "Still Alive"
     }
 ]
