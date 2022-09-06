@@ -21,7 +21,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 1,
-        "updated": "2022-09-06 19:41:48"
+        "updated": "2022-09-06 19:59:03"
     },
     {
         "name": "Poly Network",
@@ -45,7 +45,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 2,
-        "updated": "2022-09-06 19:41:48"
+        "updated": "2022-09-06 19:59:03"
     },
     {
         "name": "Coincheck",
@@ -68,8 +68,9 @@
         "party": "Coincheck",
         "type": "Hack",
         "status": "Still Alive",
+        "country": "Japan",
         "rank": 3,
-        "updated": "2022-09-06 19:41:48"
+        "updated": "2022-09-06 19:59:03"
     },
     {
         "name": "Mt. Gox",
@@ -92,8 +93,9 @@
         "party": "Mt. Gox",
         "type": "Hack",
         "status": "Dead",
+        "country": "Japan",
         "rank": 4,
-        "updated": "2022-09-06 19:41:48"
+        "updated": "2022-09-06 19:59:03"
     },
     {
         "name": "Wormhole",
@@ -117,7 +119,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 5,
-        "updated": "2022-09-06 19:41:48"
+        "updated": "2022-09-06 19:59:03"
     },
     {
         "name": "KuCoin",
@@ -140,8 +142,9 @@
         "party": "KuCoin",
         "type": "Hack",
         "status": "Still Alive",
+        "country": "Seychelles",
         "rank": 6,
-        "updated": "2022-09-06 19:41:48"
+        "updated": "2022-09-06 19:59:03"
     },
     {
         "name": "BitMart",
@@ -164,8 +167,9 @@
         "party": "BitMart",
         "type": "Hack",
         "status": "Still Alive",
+        "country": "Cayman islands",
         "rank": 7,
-        "updated": "2022-09-06 19:41:48"
+        "updated": "2022-09-06 19:59:03"
     },
     {
         "name": "Nomad",
@@ -189,7 +193,7 @@
         "type": "Hack",
         "status": "Dead",
         "rank": 8,
-        "updated": "2022-09-06 19:41:48"
+        "updated": "2022-09-06 19:59:03"
     },
     {
         "name": "Beanstalk",
@@ -213,7 +217,7 @@
         "type": "Hack",
         "status": "Resurrected",
         "rank": 9,
-        "updated": "2022-09-06 19:41:48"
+        "updated": "2022-09-06 19:59:03"
     },
     {
         "name": "Compound",
@@ -237,7 +241,32 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 10,
-        "updated": "2022-09-06 19:41:48"
+        "updated": "2022-09-06 19:59:03"
+    },
+    {
+        "name": "BitGrail",
+        "date": 1640044800,
+        "inUSD": 146000000,
+        "assets": "230,000 BitGrail users lost funds",
+        "reasonShort": "Exit Scam",
+        "reasonLong": "A man who ran the now-bankrupt BitGrail exchange may have been behind a series of hacks that stole \u20ac120 million.",
+        "audited": "No",
+        "refunded": "No",
+        "category": "CEX",
+        "url1": "https://www.reuters.com/article/italy-cyber-cryptocurrency/italian-police-accuse-cryptocurrency-exchange-boss-of-huge-fraud-idUSL8N2J127X",
+        "url2": "https://www.coindesk.com/markets/2020/12/21/bitgrail-operator-may-have-hacked-own-exchange-to-steal-120m-police-allege/",
+        "url3": "",
+        "desc": "Italian CEX.",
+        "chain": "Nano",
+        "hackerWallet1": "",
+        "hackerWallet2": "",
+        "hackerWallet3": "",
+        "party": "BitGrail",
+        "type": "Exit Scam",
+        "status": "Dead",
+        "country": "Italy",
+        "rank": 11,
+        "updated": "2022-09-06 19:59:03"
     },
     {
         "name": "Vulcan Forged",
@@ -257,10 +286,10 @@
         "hackerWallet1": "",
         "hackerWallet2": "",
         "hackerWallet3": "",
-        "party": "Compound",
+        "party": "Vulcan Forged",
         "type": "Hack",
         "status": "Still Alive",
-        "rank": 11,
-        "updated": "2022-09-06 19:41:48"
+        "rank": 12,
+        "updated": "2022-09-06 19:59:03"
     }
 ]

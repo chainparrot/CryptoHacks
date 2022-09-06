@@ -63,7 +63,8 @@
         "hackerWallet3": "",
         "party": "Coincheck",
         "type": "Hack",
-        "status": "Still Alive"
+        "status": "Still Alive",
+        "country": "Japan"
     },
     {
         "name": "Mt. Gox",
@@ -85,7 +86,8 @@
         "hackerWallet3": "",
         "party": "Mt. Gox",
         "type": "Hack",
-        "status": "Dead"
+        "status": "Dead",
+        "country": "Japan"
     },
     {
         "name": "Wormhole",
@@ -129,7 +131,8 @@
         "hackerWallet3": "",
         "party": "KuCoin",
         "type": "Hack",
-        "status": "Still Alive"
+        "status": "Still Alive",
+        "country": "Seychelles"
     },
     {
         "name": "BitMart",
@@ -151,7 +154,8 @@
         "hackerWallet3": "",
         "party": "BitMart",
         "type": "Hack",
-        "status": "Still Alive"
+        "status": "Still Alive",
+        "country": "Cayman islands"
     },
     {
         "name": "Nomad",
@@ -238,8 +242,31 @@
         "hackerWallet1": "",
         "hackerWallet2": "",
         "hackerWallet3": "",
-        "party": "Compound",
+        "party": "Vulcan Forged",
         "type": "Hack",
         "status": "Still Alive"
+    },
+    {
+        "name": "BitGrail",
+        "date": 1640044800,
+        "inUSD": 146000000,
+        "assets": "230,000 BitGrail users lost funds",
+        "reasonShort": "Exit Scam",
+        "reasonLong": "A man who ran the now-bankrupt BitGrail exchange may have been behind a series of hacks that stole €120 million.",
+        "audited": "No",
+        "refunded": "No",
+        "category": "CEX",
+        "url1": "https://www.reuters.com/article/italy-cyber-cryptocurrency/italian-police-accuse-cryptocurrency-exchange-boss-of-huge-fraud-idUSL8N2J127X",
+        "url2": "https://www.coindesk.com/markets/2020/12/21/bitgrail-operator-may-have-hacked-own-exchange-to-steal-120m-police-allege/",
+        "url3": "",
+        "desc": "Italian CEX.",
+        "chain": "Nano",
+        "hackerWallet1": "",
+        "hackerWallet2": "",
+        "hackerWallet3": "",
+        "party": "BitGrail",
+        "type": "Exit Scam",
+        "status": "Dead",
+        "country": "Italy"
     }
 ]
