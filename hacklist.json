@@ -15,6 +15,7 @@
     "desc": "The Ronin bridge has been exploited for 173,600 Ethereum and 25.5M USDC. The Ronin bridge and Katana Dex have been halted.",
     "rank": 1,
     "chain": "Ethereum",
-    "hackerWallet": "https://etherscan.io/address/0x098b716b8aaf21512996dc57eb0615e2383e2f96"
+    "hackerWallet": "https://etherscan.io/address/0x098b716b8aaf21512996dc57eb0615e2383e2f96",
+    "party": "Sky Mavis",
   }
 ]
