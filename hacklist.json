@@ -18,7 +18,7 @@
     "hackerWallet1": "https://etherscan.io/address/0x098b716b8aaf21512996dc57eb0615e2383e2f96",
     "hackerWallet2": "",
     "hackerWallet3": "",
-    "party": "Sky Mavis",
+    "party": "Sky Mavis"
   },
   {
     "name": "Poly Network",
@@ -39,6 +39,6 @@
     "hackerWallet1": "https://etherscan.io/address/0xc8a65fadf0e0ddaf421f28feab69bf6e2e589963",
     "hackerWallet2": "https://bscscan.com/address/0x0d6e286a7cfd25e0c01fee9756765d8033b32c71",
     "hackerWallet3": "https://polygonscan.com/address/0x5dc3603c9d42ff184153a8a9094a73d461663214",
-    "party": "Poly Network",
+    "party": "Poly Network"
   }
 ]
