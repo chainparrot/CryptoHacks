@@ -61,5 +61,26 @@
         "hackerWallet2": "",
         "hackerWallet3": "",
         "party": "Coincheck"
+    },
+    {
+        "name": "Mt. Gox",
+        "date": 1391731200,
+        "inUSD": 473000000,
+        "assets": "844,408 BTC",
+        "reasonShort": "Hacked.",
+        "reasonLong": "Mt. Gox released a statement saying, The company believes there is a high possibility that the bitcoins were stolen, blamed hackers, and began a search for the missing bitcoins.",
+        "audited": "No",
+        "refunded": "No",
+        "category": "CEX",
+        "url1": "https://en.wikipedia.org/wiki/Mt._Gox",
+        "url2": "https://www.investopedia.com/terms/m/mt-gox.asp",
+        "url3": "",
+        "desc": "Mt. Gox was a cryptocurrency exchange that operated between 2010 and 2014.",
+        "rank": 4,
+        "chain": "BTC",
+        "hackerWallet1": "",
+        "hackerWallet2": "",
+        "hackerWallet3": "",
+        "party": "Mt. Gox"
     }
 ]
