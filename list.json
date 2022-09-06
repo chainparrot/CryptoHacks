@@ -314,5 +314,28 @@
         "type": "Hack",
         "status": "Still Alive",
         "country": ""
+    },
+    {
+        "name": "BadgerDAO",
+        "date": 1638403200,
+        "inUSD": 121168753,
+        "assets": "121,000 million dollar",
+        "reasonShort": "Front-end attack",
+        "reasonLong": "Investigators Believe Unauthorized API Key Allowed Malicious Snippet to Set User Web3 Permission to Attacker Wallet.",
+        "audited": "No",
+        "refunded": "Partially",
+        "category": "Yield Aggregator",
+        "url1": "https://badger.com/technical-post-mortem",
+        "url2": "https://www.coindesk.com/business/2021/12/10/badgerdao-reveals-details-of-how-it-was-hacked-for-120m/",
+        "url3": "",
+        "desc": "BadgerDAO dedicated to building products and infrastructure to bring Bitcoin to DeFi.",
+        "chain": "Ethereum",
+        "hackerWallet1": "",
+        "hackerWallet2": "",
+        "hackerWallet3": "",
+        "party": "BadgerDAO",
+        "type": "Hack",
+        "status": "Still Alive",
+        "country": ""
     }
 ]
