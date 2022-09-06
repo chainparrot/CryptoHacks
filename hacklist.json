@@ -7,6 +7,10 @@
     "audited": 0,
     "refunded": 1,
     "category": "Bridge",
+    "url1": "https://twitter.com/Ronin_Network/status/1508828719711879168",
+    "url2": "https://roninblockchain.substack.com/p/community-alert-ronin-validators?s=w",
+    "url3": "https://decrypt.co/96322/hacker-622-million-axie-infinity-ronin-ethereum",
+    "desc": "The Ronin bridge has been exploited for 173,600 Ethereum and 25.5M USDC. The Ronin bridge and Katana Dex have been halted.",
     "rank": 1
   }
 ]
