@@ -5,7 +5,7 @@
         "inUSD": 622000000,
         "assets": "173,600 WETH and 25.5 million USDC",
         "reasonShort": "Compromised private keys",
-        "reasonLong": "The attacker used \u201chacked private keys\u201d to execute the exploit, per the team\u2019s report, and thus was able to forge transactions to claim the funds.",
+        "reasonLong": "The attacker used “hacked private keys” to execute the exploit, per the team’s report, and thus was able to forge transactions to claim the funds.",
         "audited": "Yes",
         "refunded": "Yes",
         "category": "Bridge",
@@ -19,9 +19,7 @@
         "hackerWallet3": "",
         "party": "Sky Mavis",
         "type": "Hack",
-        "status": "Still Alive",
-        "rank": 1,
-        "updated": "2022-09-06 19:27:30"
+        "status": "Still Alive"
     },
     {
         "name": "Poly Network",
@@ -43,9 +41,7 @@
         "hackerWallet3": "https://polygonscan.com/address/0x5dc3603c9d42ff184153a8a9094a73d461663214",
         "party": "Poly Network",
         "type": "Hack",
-        "status": "Still Alive",
-        "rank": 2,
-        "updated": "2022-09-06 19:27:30"
+        "status": "Still Alive"
     },
     {
         "name": "Coincheck",
@@ -67,9 +63,7 @@
         "hackerWallet3": "",
         "party": "Coincheck",
         "type": "Hack",
-        "status": "Still Alive",
-        "rank": 3,
-        "updated": "2022-09-06 19:27:30"
+        "status": "Still Alive"
     },
     {
         "name": "Mt. Gox",
@@ -91,9 +85,7 @@
         "hackerWallet3": "",
         "party": "Mt. Gox",
         "type": "Hack",
-        "status": "Dead",
-        "rank": 4,
-        "updated": "2022-09-06 19:27:30"
+        "status": "Dead"
     },
     {
         "name": "Wormhole",
@@ -115,9 +107,7 @@
         "hackerWallet3": "",
         "party": "Jump Trading",
         "type": "Hack",
-        "status": "Still Alive",
-        "rank": 5,
-        "updated": "2022-09-06 19:27:30"
+        "status": "Still Alive"
     },
     {
         "name": "KuCoin",
@@ -139,9 +129,7 @@
         "hackerWallet3": "",
         "party": "KuCoin",
         "type": "Hack",
-        "status": "Still Alive",
-        "rank": 6,
-        "updated": "2022-09-06 19:27:30"
+        "status": "Still Alive"
     },
     {
         "name": "BitMart",
@@ -163,9 +151,7 @@
         "hackerWallet3": "",
         "party": "BitMart",
         "type": "Hack",
-        "status": "Still Alive",
-        "rank": 7,
-        "updated": "2022-09-06 19:27:30"
+        "status": "Still Alive"
     },
     {
         "name": "Nomad",
@@ -187,9 +173,7 @@
         "hackerWallet3": "",
         "party": "Nomad",
         "type": "Hack",
-        "status": "Dead",
-        "rank": 8,
-        "updated": "2022-09-06 19:27:30"
+        "status": "Dead"
     },
     {
         "name": "Beanstalk",
@@ -197,7 +181,7 @@
         "inUSD": 182000000,
         "assets": "$182 million in Ethereum",
         "reasonShort": "Flash loan attack",
-        "reasonLong": "The hacker used a flash loan, which allows people to borrow an asset to make a quick trade and then repay the asset\u2014all in just one complex transaction that involves multiple protocols.",
+        "reasonLong": "The hacker used a flash loan, which allows people to borrow an asset to make a quick trade and then repay the asset—all in just one complex transaction that involves multiple protocols.",
         "audited": "No",
         "refunded": "No",
         "category": "Algo-Stable",
@@ -211,17 +195,16 @@
         "hackerWallet3": "",
         "party": "Beanstalk",
         "type": "Hack",
-        "status": "Resurrected",
-        "rank": 9,
-        "updated": "2022-09-06 19:27:30"
-    },
+        "status": "Resurrected"
+    }
+    ,
     {
         "name": "Compound",
         "date": 1633219200,
         "inUSD": 147000000,
         "assets": "202,472 COMP",
         "reasonShort": "Contract bug",
-        "reasonLong": "A week ago, Compound founder Robert Leshner called a bug in his lending protocol\u2019s smart contract a moral dilemma.",
+        "reasonLong": "A week ago, Compound founder Robert Leshner called a bug in his lending protocol’s smart contract a moral dilemma.",
         "audited": "No",
         "refunded": "Partially",
         "category": "Lending",
@@ -235,8 +218,6 @@
         "hackerWallet3": "",
         "party": "Compound",
         "type": "Hack",
-        "status": "Still Alive",
-        "rank": 10,
-        "updated": "2022-09-06 19:27:30"
+        "status": "Still Alive"
     }
 ]
