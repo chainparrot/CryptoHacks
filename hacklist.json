@@ -3,7 +3,7 @@
     "name": "Ronin",
     "date": "Mar 29, 2022",
     "inUSD": 622000000,
-    "reasonShort": "Private keys hacked",
+    "reasonShort": "Private keys hacked.",
     "reasonLong": "The attacker used “hacked private keys” to execute the exploit, per the team’s report, and thus was able to forge transactions to claim the funds.",
     "audited": "No",
     "refunded": "Yes",
