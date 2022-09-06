@@ -152,5 +152,27 @@
         "hackerWallet3": "",
         "party": "BitMart",
         "type": "Hack"
+    },
+    {
+        "name": "Beanstalk",
+        "date": 1650240000,
+        "inUSD": 182000000,
+        "assets": "$182 million in Ethereum",
+        "reasonShort": "Flash loan attack",
+        "reasonLong": "The hacker used a flash loan, which allows people to borrow an asset to make a quick trade and then repay the asset—all in just one complex transaction that involves multiple protocols.",
+        "audited": "No",
+        "refunded": "No",
+        "category": "Algo-Stable",
+        "url1": "https://twitter.com/BeanstalkFarms/status/1515747114894065664",
+        "url2": "https://halborn.com/explained-the-beanstalk-hack-april-2022/",
+        "url3": "https://decrypt.co/98118/ethereum-defi-protocol-beanstalk-hacked-182-million-what-you-need-know",
+        "desc": "Beanstalk is known for its algorithmic stablecoin, BEAN, which is supposed to be worth $1.",
+        "rank": 8,
+        "chain": "Ethereum",
+        "hackerWallet1": "",
+        "hackerWallet2": "",
+        "hackerWallet3": "",
+        "party": "BitMart",
+        "type": "Hack"
     }
 ]
