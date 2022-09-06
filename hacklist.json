@@ -21,7 +21,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 1,
-        "updated": "2022-09-06 19:59:03"
+        "updated": "2022-09-06 20:24:02"
     },
     {
         "name": "Poly Network",
@@ -45,7 +45,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 2,
-        "updated": "2022-09-06 19:59:03"
+        "updated": "2022-09-06 20:24:02"
     },
     {
         "name": "Coincheck",
@@ -70,7 +70,7 @@
         "status": "Still Alive",
         "country": "Japan",
         "rank": 3,
-        "updated": "2022-09-06 19:59:03"
+        "updated": "2022-09-06 20:24:02"
     },
     {
         "name": "Mt. Gox",
@@ -95,7 +95,7 @@
         "status": "Dead",
         "country": "Japan",
         "rank": 4,
-        "updated": "2022-09-06 19:59:03"
+        "updated": "2022-09-06 20:24:02"
     },
     {
         "name": "Wormhole",
@@ -119,7 +119,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 5,
-        "updated": "2022-09-06 19:59:03"
+        "updated": "2022-09-06 20:24:02"
     },
     {
         "name": "KuCoin",
@@ -144,7 +144,7 @@
         "status": "Still Alive",
         "country": "Seychelles",
         "rank": 6,
-        "updated": "2022-09-06 19:59:03"
+        "updated": "2022-09-06 20:24:02"
     },
     {
         "name": "BitMart",
@@ -169,7 +169,7 @@
         "status": "Still Alive",
         "country": "Cayman islands",
         "rank": 7,
-        "updated": "2022-09-06 19:59:03"
+        "updated": "2022-09-06 20:24:02"
     },
     {
         "name": "Nomad",
@@ -193,7 +193,7 @@
         "type": "Hack",
         "status": "Dead",
         "rank": 8,
-        "updated": "2022-09-06 19:59:03"
+        "updated": "2022-09-06 20:24:02"
     },
     {
         "name": "Beanstalk",
@@ -217,7 +217,7 @@
         "type": "Hack",
         "status": "Resurrected",
         "rank": 9,
-        "updated": "2022-09-06 19:59:03"
+        "updated": "2022-09-06 20:24:02"
     },
     {
         "name": "Compound",
@@ -241,7 +241,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 10,
-        "updated": "2022-09-06 19:59:03"
+        "updated": "2022-09-06 20:24:02"
     },
     {
         "name": "BitGrail",
@@ -266,7 +266,7 @@
         "status": "Dead",
         "country": "Italy",
         "rank": 11,
-        "updated": "2022-09-06 19:59:03"
+        "updated": "2022-09-06 20:24:02"
     },
     {
         "name": "Vulcan Forged",
@@ -290,6 +290,31 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 12,
-        "updated": "2022-09-06 19:59:03"
+        "updated": "2022-09-06 20:24:02"
+    },
+    {
+        "name": "BXH",
+        "date": 1635552000,
+        "inUSD": 139000000,
+        "assets": "139,000 million in BNB",
+        "reasonShort": "Compromised private keys",
+        "reasonLong": "Leaked administrator key.",
+        "audited": "No",
+        "refunded": "Yes",
+        "category": "CeDeFi",
+        "url1": "https://twitter.com/BXH_Blockchain/status/1454366374353010695",
+        "url2": "https://www.coindesk.com/tech/2021/11/01/139m-bxh-exchange-hack-was-the-result-of-leaked-admin-key/",
+        "url3": "",
+        "desc": "",
+        "chain": "BNB",
+        "hackerWallet1": "",
+        "hackerWallet2": "",
+        "hackerWallet3": "",
+        "party": "BXH",
+        "type": "Hack",
+        "status": "Still Alive",
+        "country": "China",
+        "rank": 13,
+        "updated": "2022-09-06 20:24:02"
     }
 ]

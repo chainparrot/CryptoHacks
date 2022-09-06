@@ -268,5 +268,28 @@
         "type": "Exit Scam",
         "status": "Dead",
         "country": "Italy"
+    },
+    {
+        "name": "BXH",
+        "date": 1635552000,
+        "inUSD": 139000000,
+        "assets": "139,000 million in BNB",
+        "reasonShort": "Compromised private keys",
+        "reasonLong": "Leaked administrator key.",
+        "audited": "No",
+        "refunded": "Yes",
+        "category": "CeDeFi",
+        "url1": "https://twitter.com/BXH_Blockchain/status/1454366374353010695",
+        "url2": "https://www.coindesk.com/tech/2021/11/01/139m-bxh-exchange-hack-was-the-result-of-leaked-admin-key/",
+        "url3": "",
+        "desc": "",
+        "chain": "BNB",
+        "hackerWallet1": "",
+        "hackerWallet2": "",
+        "hackerWallet3": "",
+        "party": "BXH",
+        "type": "Hack",
+        "status": "Still Alive",
+        "country": "China"
     }
 ]
