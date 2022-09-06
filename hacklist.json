@@ -1,7 +1,7 @@
 [
     {
         "name": "Ronin",
-        "date": "Mar 29, 2022",
+        "date": 1648512000,
         "inUSD": 622000000,
         "assets": "173,600 WETH and 25.5 million USDC",
         "reasonShort": "Private keys hacked.",
@@ -22,7 +22,7 @@
     },
     {
         "name": "Poly Network",
-        "date": "Aug 10, 2021",
+        "date": 1628553600,
         "inUSD": 611000000,
         "assets": "173,600 WETH and 25.5 million USDC",
         "reasonShort": "A vulnerability between contract calls.",
@@ -43,7 +43,7 @@
     },
     {
         "name": "Coincheck",
-        "date": "Jan 26, 2018",
+        "date": 1516924800,
         "inUSD": 534000000,
         "assets": "523 millions NEM",
         "reasonShort": "Hot wallet.",
