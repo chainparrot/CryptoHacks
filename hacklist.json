@@ -25,7 +25,7 @@
         "date": "Aug 10, 2021",
         "inUSD": 611000000,
         "assets": "173,600 WETH and 25.5 million USDC",
-        "reasonShort": "A vulnerability between contract calls",
+        "reasonShort": "A vulnerability between contract calls.",
         "reasonLong": "According to cybersecurity firm SlowMist and security researcher Kelvin Fichter, the hack was made possible by a mismanagement of the access rights between two important Poly smart contract. The first one is EthCrossChainManager and the second one is EthCrossChainData.",
         "audited": "Yes",
         "refunded": "Yes",
