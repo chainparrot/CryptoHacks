@@ -206,4 +206,28 @@
         "type": "Hack",
         "status": "Resurrected"
     }
+    ,
+    {
+        "name": "Compound",
+        "date": 1633219200,
+        "inUSD": 147000000,
+        "assets": "202,472 COMP",
+        "reasonShort": "Contract bug",
+        "reasonLong": "A week ago, Compound founder Robert Leshner called a bug in his lending protocol’s smart contract a moral dilemma.",
+        "audited": "No",
+        "refunded": "Partially",
+        "category": "Lending",
+        "url1": "https://twitter.com/bantg/status/1444643482216304641",
+        "url2": "https://decrypt.co/82499/compound-exploit-drains-21m-from-lending-protocol",
+        "url3": "",
+        "desc": "Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.",
+        "rank": 10,
+        "chain": "Ethereum",
+        "hackerWallet1": "",
+        "hackerWallet2": "",
+        "hackerWallet3": "",
+        "party": "Compound",
+        "type": "Hack",
+        "status": "Still Alive"
+    }
 ]
