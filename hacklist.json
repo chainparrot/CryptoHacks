@@ -124,5 +124,26 @@
         "hackerWallet2": "",
         "hackerWallet3": "",
         "party": "KuCoin"
+    },
+    {
+        "name": "BitMart",
+        "date": 1638662400,
+        "inUSD": 196000000,
+        "assets": "196 million worth Ethereum",
+        "reasonShort": "Compromised private keys",
+        "reasonLong": "Large-scale security breach related to one of our ETH hot wallets and one of our BSC hot wallets.",
+        "audited": "No",
+        "refunded": "No",
+        "category": "CEX",
+        "url1": "https://twitter.com/sheldonbitmart/status/1467316252855226368",
+        "url2": "https://www.coindesk.com/tech/2021/12/06/bitmart-ceo-says-stolen-private-key-behind-196m-hack/",
+        "url3": "https://coinmarketcap.com/alexandria/article/bitmart-hack-one-of-the-most-recent-crypto-hacks",
+        "desc": "BitMart is a global cryptocurrency exchange that allows users in 180+ countries to buy and sell over 1,000 digital currencies and tokens.",
+        "rank": 7,
+        "chain": "Ethereum, BSC",
+        "hackerWallet1": "",
+        "hackerWallet2": "",
+        "hackerWallet3": "",
+        "party": "BitMart"
     }
 ]
