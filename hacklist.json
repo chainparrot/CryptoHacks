@@ -82,5 +82,26 @@
         "hackerWallet2": "",
         "hackerWallet3": "",
         "party": "Mt. Gox"
+    },
+    {
+        "name": "Wormhole",
+        "date": 1643760000,
+        "inUSD": 325000000,
+        "assets": "120,000 WETH",
+        "reasonShort": "Signature verification vulnerability.",
+        "reasonLong": "An attacker exploited a signature verification vulnerability in the Wormhole network to mint 120k Wormhole-wrapped Ether on Solana.",
+        "audited": "No",
+        "refunded": "Yes",
+        "category": "Bridge",
+        "url1": "https://wormholecrypto.medium.com/wormhole-incident-report-02-02-22-ad9b8f21eec6",
+        "url2": "https://decrypt.co/91899/hacker-steals-320-million-solana-ethereum-bridge-wormhole",
+        "url3": "",
+        "desc": "Interoperability protocol powering the seamless transfer of value and information across 14 high value chains with just one integration",
+        "rank": 5,
+        "chain": "Solana",
+        "hackerWallet1": "",
+        "hackerWallet2": "",
+        "hackerWallet3": "",
+        "party": "Jump Trading"
     }
 ]
