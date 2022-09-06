@@ -278,7 +278,7 @@
         "reasonLong": "Leaked administrator key.",
         "audited": "No",
         "refunded": "Yes",
-        "category": "CeDeFi",
+        "category": "CEX",
         "url1": "https://twitter.com/BXH_Blockchain/status/1454366374353010695",
         "url2": "https://www.coindesk.com/tech/2021/11/01/139m-bxh-exchange-hack-was-the-result-of-leaked-admin-key/",
         "url3": "",
@@ -291,5 +291,28 @@
         "type": "Hack",
         "status": "Still Alive",
         "country": "China"
+    },
+    {
+        "name": "Cream Finance",
+        "date": 1635292800,
+        "inUSD": 130000000,
+        "assets": "139,000 million in BNB",
+        "reasonShort": "Flash loan attack",
+        "reasonLong": "flash loan",
+        "audited": "No",
+        "refunded": "No",
+        "category": "Lending",
+        "url1": "https://twitter.com/CreamdotFinance/status/1453377073699983366",
+        "url2": "https://www.coindesk.com/business/2021/10/27/cream-finance-exploited-in-flash-loan-attack-worth-over-100m/",
+        "url3": "",
+        "desc": "",
+        "chain": "Ethereum",
+        "hackerWallet1": "",
+        "hackerWallet2": "",
+        "hackerWallet3": "",
+        "party": "Cream Finance",
+        "type": "Hack",
+        "status": "Still Alive",
+        "country": ""
     }
 ]
