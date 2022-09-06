@@ -4,7 +4,7 @@
         "date": 1648512000,
         "inUSD": 622000000,
         "assets": "173,600 WETH and 25.5 million USDC",
-        "reasonShort": "Private keys hacked.",
+        "reasonShort": "Private keys compromised.",
         "reasonLong": "The attacker used “hacked private keys” to execute the exploit, per the team’s report, and thus was able to forge transactions to claim the funds.",
         "audited": "Yes",
         "refunded": "Yes",
