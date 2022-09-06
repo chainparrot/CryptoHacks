@@ -40,5 +40,26 @@
         "hackerWallet2": "https://bscscan.com/address/0x0d6e286a7cfd25e0c01fee9756765d8033b32c71",
         "hackerWallet3": "https://polygonscan.com/address/0x5dc3603c9d42ff184153a8a9094a73d461663214",
         "party": "Poly Network"
+    },
+    {
+        "name": "Coincheck",
+        "date": "Jan 26, 2018",
+        "inUSD": 534000000,
+        "assets": "523 millions NEM",
+        "reasonShort": "Hot wallet.",
+        "reasonLong": "The stolen Coincheck assets were said to be kept in a hot wallet - a part of the exchange connected to the internet. That contrasts with a cold wallet, where funds are stored securely offline.",
+        "audited": "Yes",
+        "refunded": "Yes",
+        "category": "CEX",
+        "url1": "https://corporate.coincheck.com/2018/01/26/29.html",
+        "url2": "https://www.bbc.com/news/world-asia-42845505",
+        "url3": "https://coincheck.blog/4671",
+        "desc": "Coincheck is one of Japan's largest digital currency exchange.",
+        "rank": 3,
+        "chain": "NEM",
+        "hackerWallet1": "",
+        "hackerWallet2": "",
+        "hackerWallet3": "",
+        "party": "Coincheck"
     }
 ]
