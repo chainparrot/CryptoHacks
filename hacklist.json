@@ -19,14 +19,15 @@
         "hackerWallet2": "",
         "hackerWallet3": "",
         "party": "Sky Mavis",
-        "type": "Hack"
+        "type": "Hack",
+        "status": "Still Alive"
     },
     {
         "name": "Poly Network",
         "date": 1628553600,
         "inUSD": 611000000,
         "assets": "173,600 WETH and 25.5 million USDC",
-        "reasonShort": "Contract calls vulnerability",
+        "reasonShort": "Contract vulnerability",
         "reasonLong": "According to cybersecurity firm SlowMist and security researcher Kelvin Fichter, the hack was made possible by a mismanagement of the access rights between two important Poly smart contract. The first one is EthCrossChainManager and the second one is EthCrossChainData.",
         "audited": "Yes",
         "refunded": "Yes",
@@ -41,7 +42,8 @@
         "hackerWallet2": "https://bscscan.com/address/0x0d6e286a7cfd25e0c01fee9756765d8033b32c71",
         "hackerWallet3": "https://polygonscan.com/address/0x5dc3603c9d42ff184153a8a9094a73d461663214",
         "party": "Poly Network",
-        "type": "Hack"
+        "type": "Hack",
+        "status": "Still Alive"
     },
     {
         "name": "Coincheck",
@@ -63,7 +65,8 @@
         "hackerWallet2": "",
         "hackerWallet3": "",
         "party": "Coincheck",
-        "type": "Hack"
+        "type": "Hack",
+        "status": "Still Alive"
     },
     {
         "name": "Mt. Gox",
@@ -85,7 +88,8 @@
         "hackerWallet2": "",
         "hackerWallet3": "",
         "party": "Mt. Gox",
-        "type": "Hack"
+        "type": "Hack",
+        "status": "Dead"
     },
     {
         "name": "Wormhole",
@@ -107,7 +111,8 @@
         "hackerWallet2": "",
         "hackerWallet3": "",
         "party": "Jump Trading",
-        "type": "Hack"
+        "type": "Hack",
+        "status": "Still Alive"
     },
     {
         "name": "KuCoin",
@@ -129,7 +134,8 @@
         "hackerWallet2": "",
         "hackerWallet3": "",
         "party": "KuCoin",
-        "type": "Hack"
+        "type": "Hack",
+        "status": "Still Alive"
     },
     {
         "name": "BitMart",
@@ -151,7 +157,31 @@
         "hackerWallet2": "",
         "hackerWallet3": "",
         "party": "BitMart",
-        "type": "Hack"
+        "type": "Hack",
+        "status": "Still Alive"
+    },
+    {
+        "name": "Nomad",
+        "date": 1659312000,
+        "inUSD": 186000000,
+        "assets": "$186 million in Ethereum",
+        "reasonShort": "Contract vulnerability",
+        "reasonLong": "An implementation bug caused the Replica contract to fail to authenticate messages properly. This issue allowed any message to be forged as long as it had not already been processed.",
+        "audited": "No",
+        "refunded": "No",
+        "category": "Bridge",
+        "url1": "https://medium.com/nomad-xyz-blog/the-road-to-recovery-6abe5eec8ff1",
+        "url2": "https://decrypt.co/106459/crypto-bridge-nomad-exploited-190m-frenzied-free-for-all",
+        "url3": "https://www.coindesk.com/business/2022/08/03/hackers-send-back-9m-to-nomad-bridge-after-190m-exploit/",
+        "desc": "Nomad is an interoperability protocol for generalized message passing. We leverage an optimistic mechanism.",
+        "rank": 8,
+        "chain": "Ethereum",
+        "hackerWallet1": "",
+        "hackerWallet2": "",
+        "hackerWallet3": "",
+        "party": "Nomad",
+        "type": "Hack",
+        "status": "Dead"
     },
     {
         "name": "Beanstalk",
@@ -167,12 +197,13 @@
         "url2": "https://halborn.com/explained-the-beanstalk-hack-april-2022/",
         "url3": "https://decrypt.co/98118/ethereum-defi-protocol-beanstalk-hacked-182-million-what-you-need-know",
         "desc": "Beanstalk is known for its algorithmic stablecoin, BEAN, which is supposed to be worth $1.",
-        "rank": 8,
+        "rank": 9,
         "chain": "Ethereum",
         "hackerWallet1": "",
         "hackerWallet2": "",
         "hackerWallet3": "",
-        "party": "BitMart",
-        "type": "Hack"
+        "party": "Beanstalk",
+        "type": "Hack",
+        "status": "Dead"
     }
 ]
