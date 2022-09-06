@@ -3,6 +3,7 @@
     "name": "Ronin",
     "date": "Mar 29, 2022",
     "inUSD": 622000000,
+    "inCrypto": "173,600 WETH and 25.5 million USDC",
     "reasonShort": "Private keys hacked.",
     "reasonLong": "The attacker used “hacked private keys” to execute the exploit, per the team’s report, and thus was able to forge transactions to claim the funds.",
     "audited": "No",
@@ -13,6 +14,7 @@
     "url3": "https://decrypt.co/96322/hacker-622-million-axie-infinity-ronin-ethereum",
     "desc": "The Ronin bridge has been exploited for 173,600 Ethereum and 25.5M USDC. The Ronin bridge and Katana Dex have been halted.",
     "rank": 1,
-    "chain": "Ethereum"
+    "chain": "Ethereum",
+    "hackerWallet": "https://etherscan.io/address/0x098b716b8aaf21512996dc57eb0615e2383e2f96"
   }
 ]
