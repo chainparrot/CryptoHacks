@@ -70,7 +70,7 @@
         "reasonShort": "Hacked.",
         "reasonLong": "Mt. Gox released a statement saying, The company believes there is a high possibility that the bitcoins were stolen, blamed hackers, and began a search for the missing bitcoins.",
         "audited": "No",
-        "refunded": "No",
+        "refunded": "Partially",
         "category": "CEX",
         "url1": "https://en.wikipedia.org/wiki/Mt._Gox",
         "url2": "https://www.investopedia.com/terms/m/mt-gox.asp",
