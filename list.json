@@ -383,5 +383,28 @@
         "type": "Hack",
         "status": "Still Alive",
         "country": ""
+    },
+    {
+        "name": "Wintermute",
+        "date": 1663663624,
+        "inUSD": 160000000,
+        "assets": "160,000 million dollar",
+        "reasonShort": "Unknown",
+        "reasonLong": "Gaevoy added that the company is still treating the hack as a white hat event and asked the hacker to get in touch.",
+        "audited": "No",
+        "refunded": "No",
+        "category": "Crypto Market Maker",
+        "url1": "https://twitter.com/EvgenyGaevoy/status/1572134273875951617",
+        "url2": "https://www.coindesk.com/business/2022/09/20/crypto-market-maker-wintermute-hacked-for-160m-says-ceo/",
+        "url3": "",
+        "desc": "Crypto Market Maker",
+        "chain": "Ethereum",
+        "hackerWallet1": "",
+        "hackerWallet2": "",
+        "hackerWallet3": "",
+        "party": "Wintermute",
+        "type": "Hack",
+        "status": "Still Alive",
+        "country": ""
     }
 ]
