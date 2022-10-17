@@ -21,7 +21,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 1,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     },
     {
         "name": "Poly Network",
@@ -45,7 +45,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 2,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     },
     {
         "name": "Coincheck",
@@ -70,7 +70,7 @@
         "status": "Still Alive",
         "country": "Japan",
         "rank": 3,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     },
     {
         "name": "Mt. Gox",
@@ -95,7 +95,7 @@
         "status": "Dead",
         "country": "Japan",
         "rank": 4,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     },
     {
         "name": "Wormhole",
@@ -119,7 +119,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 5,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     },
     {
         "name": "KuCoin",
@@ -144,7 +144,7 @@
         "status": "Still Alive",
         "country": "Seychelles",
         "rank": 6,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     },
     {
         "name": "BitMart",
@@ -169,7 +169,7 @@
         "status": "Still Alive",
         "country": "Cayman islands",
         "rank": 7,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     },
     {
         "name": "Nomad",
@@ -193,7 +193,7 @@
         "type": "Hack",
         "status": "Dead",
         "rank": 8,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     },
     {
         "name": "Beanstalk",
@@ -217,7 +217,7 @@
         "type": "Hack",
         "status": "Resurrected",
         "rank": 9,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     },
     {
         "name": "Wintermute",
@@ -242,7 +242,7 @@
         "status": "Still Alive",
         "country": "",
         "rank": 10,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     },
     {
         "name": "Compound",
@@ -266,7 +266,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 11,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     },
     {
         "name": "BitGrail",
@@ -291,7 +291,7 @@
         "status": "Dead",
         "country": "Italy",
         "rank": 12,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     },
     {
         "name": "Vulcan Forged",
@@ -315,7 +315,7 @@
         "type": "Hack",
         "status": "Still Alive",
         "rank": 13,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     },
     {
         "name": "BXH",
@@ -340,7 +340,7 @@
         "status": "Still Alive",
         "country": "China",
         "rank": 14,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     },
     {
         "name": "Cream Finance",
@@ -365,7 +365,7 @@
         "status": "Still Alive",
         "country": "",
         "rank": 15,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     },
     {
         "name": "BadgerDAO",
@@ -390,7 +390,7 @@
         "status": "Still Alive",
         "country": "",
         "rank": 16,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     },
     {
         "name": "Horizon",
@@ -415,7 +415,7 @@
         "status": "Still Alive",
         "country": "",
         "rank": 17,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     },
     {
         "name": "Qubit",
@@ -440,6 +440,6 @@
         "status": "Still Alive",
         "country": "",
         "rank": 18,
-        "updated": "2022-10-16 19:18:38"
+        "updated": "2022-10-17 19:22:25"
     }
 ]
